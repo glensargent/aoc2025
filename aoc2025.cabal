@@ -21,3 +21,8 @@ executable day02
     import:   shared
     main-is:  Day02.hs
     hs-source-dirs: src
+
+executable day03
+    import:   shared
+    main-is:  Day03.hs
+    hs-source-dirs: src
